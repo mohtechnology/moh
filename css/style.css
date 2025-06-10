@@ -166,6 +166,7 @@
     }
 }
 
+@media (max-width: 768px) {
 .header-carousel .owl-nav {
     position: absolute;
     top: 50%;
@@ -194,6 +195,7 @@
 .header-carousel .owl-nav .owl-next:hover {
     background: var(--primary);
     border-color: var(--primary);
+}
 }
 
 .page-header {
